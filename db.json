@@ -34,6 +34,41 @@
       "keresztNev": "Tibor",
       "vezetekNev":"Nagy",
       "fizetes":182500
+    },
+     {
+      "id": 1,
+      "keresztNev": "Béla",
+      "vezetekNev":"Kovács",
+      "fizetes":182500
+    },
+     {
+      "id": 8,
+      "keresztNev": "Tibor",
+      "vezetekNev":"Nagy",
+      "fizetes":182500
+    },   {
+      "id": 8,
+      "keresztNev": "Tibor",
+      "vezetekNev":"Nagy",
+      "fizetes":182500
+    },
+       {
+      "id": 8,
+      "keresztNev": "Tibor",
+      "vezetekNev":"Nagy",
+      "fizetes":182500
+       },
+       {
+      "id": 8,
+      "keresztNev": "Tibor",
+      "vezetekNev":"Nagy",
+      "fizetes":182500
+    },
+       {
+      "id": 8,
+      "keresztNev": "Tibor",
+      "vezetekNev":"Nagy",
+      "fizetes":182500
     }
   ],
   "profile": {
