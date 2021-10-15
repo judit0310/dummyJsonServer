@@ -2,11 +2,10 @@
   "dolgozok": [
     {
       "id": 1,
-      "title": "hello"
-    },
-      {
-      "id": 2,
-      "title": "bello"
+      "keresztNev": "Béla",
+      "vezetekNev":"Kovács",
+      "fizetes":182500,
+      "szuletesiIdo":"1987-12-11"
     }
   ],
   "profile": {
