@@ -2,8 +2,8 @@
   "dolgozok": [
     {
       "id": 1,
-      "keresztNev": "Béla",
-      "vezetekNev":"Kovács",
+      "keresztNev": "Példa",
+      "vezetekNev":"Béla",
       "fizetes":182500
     },
      {
